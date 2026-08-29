@@ -95,7 +95,3 @@ Abra `http://localhost:5173` no navegador.
 - `POST /eventos`
 - `PUT /eventos/:id`
 - `DELETE /eventos/:id`
-
-## Observação para a entrega
-
-Para a entrega, envie o código, o arquivo `banco.sql`, o README e os arquivos `package.json` e `package-lock.json`. Não envie as pastas `node_modules`, `dist` nem o arquivo `.env`.
