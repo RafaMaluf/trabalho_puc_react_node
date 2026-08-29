@@ -52,8 +52,6 @@ DB_PASSWORD=sua_senha
 DB_NAME=agenda_esportiva
 ```
 
-O arquivo `.env` não deve ser enviado ao GitHub, pois guarda a senha do banco.
-
 ## Como executar
 
 Abra dois terminais na pasta do projeto.
